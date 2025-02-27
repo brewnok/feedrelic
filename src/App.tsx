@@ -86,6 +86,7 @@ function App() {
               <ol className="list-decimal list-inside space-y-3 text-gray-700">
                 <li>Select your region (US or EU) and enter your New Relic Account ID</li>
                 <li>Enter your New Relic Insights Insert API Key</li>
+                <li>Type a event name where you want to store your data inside New Relic</li>
                 <li>Upload a CSV or Excel file containing your event data</li>
                 <li>Review the data preview to ensure it looks correct</li>
                 <li>Click "Send Data to New Relic" to transmit the events</li>
