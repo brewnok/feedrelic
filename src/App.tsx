@@ -43,7 +43,7 @@ function App() {
             <img src= {feedrelic} alt="FeedRelic Logo" className="h-auto w-[300px] mr-3" />
           </div>
           <p className="mt-1 text-sm text-gray-500">
-            Send Custom Event Eata To New Relic Insights DB
+            Send Custom Event Eata To New Relic Database
           </p>
         </div>
       </header>
